@@ -4,9 +4,9 @@ https://public.tableau.com/app/profile/liang.gong3716/viz/HW-CitiBikeAnalyticsas
 
 2018 July, 2019 July and 2020 July data were analyzed to forecast 2021 July data. 
 
-Phenomenon 1: Grove St Path station has the highest records as both start station and end station. 
-Phenomenon 2: Subscribers are declining and cusomers are increasing from 2018 to 2020. There is a huge deline from 2019 July to 2020 July for subscribers. Because of covid, people are asked to work from home. Peak hours are 8am and 6pm when peple are commuting to and from work. 
-Phenomenon 3: People born around 1990 are the most users. Male users almost double female users. 
+Phenomenon 1: Grove St Path station has the highest records as both start station and end station. <br /> 
+Phenomenon 2: Subscribers are declining and cusomers are increasing from 2018 to 2020. There is a huge deline from 2019 July to 2020 July for subscribers. Because of covid, people are asked to work from home. Peak hours are 8am and 6pm when peple are commuting to and from work. <br />
+Phenomenon 3: People born around 1990 are the most users. Male users almost double female users. <br />
 
 
 ### Before You Begin
