@@ -8,6 +8,10 @@ Phenomenon 1: Grove St Path station has the highest records as both start statio
 Phenomenon 2: Subscribers are declining and cusomers are increasing from 2018 to 2020. There is a huge deline from 2019 July to 2020 July for subscribers. Because of covid, people are asked to work from home. Peak hours are 8am and 6pm when peple are commuting to and from work. <br />
 Phenomenon 3: People born around 1990 are the most users. Male users almost double female users. <br />
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 
 ### Before You Begin
 
